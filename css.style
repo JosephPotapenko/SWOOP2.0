@@ -1,4 +1,4 @@
 h1{
-    text-align:center
-    text-transform: uppercase:
+    text-align:center;
+    text-transform: uppercase;
 }
