@@ -1,4 +1,4 @@
-# SWOOP2.0
+# README
 ## Overview
 This is a simple HTML page that displays an image along with a title. 
 
