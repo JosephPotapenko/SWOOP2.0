@@ -1,4 +1,4 @@
-# README
+# Swoop Websight
 ## Overview
 This is a simple HTML page that displays an image along with a title. 
 
